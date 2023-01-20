@@ -90,7 +90,7 @@ TODO: $HOME/todo.txt does not contain any done tasks.
 TODO: Report file updated.
 
 >>> todo.sh append g a
-usage: todo.sh append ITEM# "TEXT TO APPEND"
+usage: todo.sh append NR "TEXT TO APPEND"
 === 1
 
 >>> todo.sh append 2 and think
